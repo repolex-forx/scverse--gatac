@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scverse/gatac/commit/87575e865c288c70d577112949b6dfb65b309ef9",
       "git:hexsha": "87575e865c288c70d577112949b6dfb65b309ef9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scverse/gatac/commit/2f34f3d4bdc3581ef9c13d05cae03bc087463c90",
