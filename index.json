@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "gatac",
+  "versions": [
+    {
+      "commit": "87575e865c288c70d577112949b6dfb65b309ef9",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:45:52.242857+00:00"
+    }
+  ]
+}
